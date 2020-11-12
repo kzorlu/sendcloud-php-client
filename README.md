@@ -4,6 +4,13 @@ An unofficial client for the Sendcloud API. More info about Sendcloud on https:/
 
 Full docs of the Sendcloud API can be found on https://docs.sendcloud.sc/api/v2/index.html
 
+## Links
+   
+  * Invoicing
+     * https://docs.sendcloud.sc/api/v2/shipping/#get-a-single-invoice
+  
+
+
 ## Installation
 This project can easily be installed through Composer.
 
